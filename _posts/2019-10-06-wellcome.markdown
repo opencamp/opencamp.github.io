@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to Open Camp!"
+date:   2019-10-06 10:52:40 -0300
+categories: news
+---
+
+Wellcome to Open Camp!
